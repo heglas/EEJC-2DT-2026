@@ -25,10 +25,10 @@ Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os
 
 ```
 EEJC-2DT-2026/
-|-- COMECE-AQUI.md  <- leia primeiro
-|-- 01-PACD/        <- material separado por bimestre
-|-- 02-OPVD/        <- material separado por bimestre
-|-- projetos/       <- trabalhos e projetos finais
+|-- COMECE-AQUI.md                <- leia primeiro
+|-- 01-PACD/                      <- material separado por bimestre
+|-- 02-OPVD/                      <- material separado por bimestre
+|-- projetos/                     <- trabalhos e projetos finais
 ```
 
 Dentro de cada materia, o material esta separado por **bimestre**, e cada aula comeca com o numero da semana (S03, S04, S09...).
