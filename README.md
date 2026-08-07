@@ -1,48 +1,55 @@
-# EEJC-2DT-2026
+# EEJC-2DT — 2026
 
-> Repositorio da turma **2DT** da Escola Estadual Professor Joao Cruz (EEJC) — ano letivo 2026.
+> Escola Estadual Professor Joao Cruz · 2a serie · ano letivo 2026
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em%20andamento-green)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Status](https://img.shields.io/badge/Status-Em%20andamento-green)
 
 ---
 
-## Sobre
+## Primeira vez aqui?
 
-Este repositorio contem todo o material didatico, exercicios e projetos desenvolvidos com a turma **EEJC-2DT** ao longo do ano letivo de 2026, nas disciplinas:
+Leia o **[COMECE-AQUI](COMECE-AQUI.md)**. Ele explica em 2 minutos como abrir os materiais no celular ou no computador, sem instalar nada.
 
-| Disciplina | Sigla | Conteudo Principal |
+---
+
+## Escolha sua materia
+
+| Materia | Nome completo | Material |
 |---|---|---|
-| Programacao Aplicada a Ciencia de Dados | PACD | Python, logica, estruturas de dados |
-| Operacao de Planilhas e Visualizacao de Dados | OPVD | Excel, Google Sheets, graficos |
-| Matematica e Estatistica para Ciencia de Dados | MECD | Estatistica descritiva, probabilidade |
+| **PACD** | Programacao Aplicada a Ciencia de Dados | [Ver 13 materiais](01-PACD/README.md) |
+| **OPVD** | Operacao de Planilhas e Visualizacao de Dados | [Ver 15 materiais](02-OPVD/README.md) |
 
 ---
 
-## Estrutura
+## Como o material esta organizado
 
 ```
 EEJC-2DT-2026/
-|-- OPVD/          # Material e exercicios de OPVD
-|-- PACD/          # Material e exercicios de PACD
-|-- README.md
+|-- COMECE-AQUI.md  <- leia primeiro
+|-- 01-PACD/        <- material separado por bimestre
+|-- 02-OPVD/        <- material separado por bimestre
+|-- projetos/       <- trabalhos e projetos finais
 ```
+
+Dentro de cada materia, o material esta separado por **bimestre**, e cada aula comeca com o numero da semana (S03, S04, S09...).
 
 ---
 
-## Como usar
+## Legenda dos tipos de material
 
-```bash
-# Clone o repositorio
-git clone https://github.com/heglas/EEJC-2DT-2026.git
+| Tipo | O que e |
+|---|---|
+| Slides | Apresentacao usada na aula |
+| Atividade | Exercicio para voce fazer e entregar |
+| Notebook | Arquivo de codigo que roda no navegador (Colab) |
+| Base de dados | Planilha ou CSV usado nas atividades |
+| Revisao | Material para estudar antes da prova |
+| Avaliacao | Provas e questoes comentadas |
+| Tutorial / Roteiro | Passo a passo para acompanhar |
 
-# Instale as dependencias
-pip install -r requirements.txt
+---
 
-# Abra os notebooks
-jupyter notebook
-```
+> **Mudou de lugar?** Em 07/08/2026 o material foi reorganizado. Se voce tinha um link antigo salvo e ele deu erro, veja o [mapa de mudancas](_arquivo/MAPA-DE-MUDANCAS.md).
 
 ---
 
