@@ -15,12 +15,12 @@ Nao sabe como abrir os arquivos? Leia o [COMECE-AQUI](../COMECE-AQUI.md) primeir
 | S04 | Material da aula 4 - tipos de dados em Python | Slides | [Ver PDF](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/S04_material-aula.pdf) | `ANO1C2B1S4A4` |
 | - | Atividade pratica avancada (desafio) | Notebook | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/atividade-pratica-avancada.ipynb) | - |
 | - | Atividade pratica de revisao | Notebook | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/atividade-pratica.ipynb) | - |
-| - | Cartaz da Prova Paulista | Apoio | [Ver imagem](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/cartaz-prova-paulista.png) | - |
 | - | Prova Paulista 1o bimestre - prova completa | Avaliacao | [Ver PDF](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/prova-completa.pdf) | - |
 | - | Questao 1 comentada | Avaliacao | [Ver PDF](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/questao-01-comentada.pdf) | - |
 | - | Questao 2 comentada | Avaliacao | [Ver PDF](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/questao-02-comentada.pdf) | - |
 | - | Questao 3 comentada | Avaliacao | [Ver PDF](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/questao-03-comentada.pdf) | - |
 | - | Resumo para estudo da Prova Paulista | Revisao | [Ver PDF](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/resumo-para-estudo.pdf) | - |
+| - | Cartaz da Prova Paulista | Apoio | [Ver imagem](https://github.com/heglas/EEJC-2DT-2026/blob/main/01-PACD/1-bimestre/prova-paulista/cartaz-prova-paulista.png) | - |
 
 ---
 
